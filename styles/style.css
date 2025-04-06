@@ -1,4 +1,4 @@
-/* место для вашего кода */
+
 .header{
     display:grid;
     grid-template-columns: 1fr min-content 1fr;
@@ -119,9 +119,6 @@ a{
     z-index: 1;
     margin-right: 30px;
 }
-
-
-
 .lots-title{
     font-weight: 700;
     font-size: 40px;
