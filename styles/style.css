@@ -135,7 +135,6 @@ a {
     position: relative;
     overflow: hidden;
 }
-
 .link-card {
     height: 100%;
 }
@@ -210,8 +209,8 @@ a {
     grid-template-columns: 334px 693px ;
     column-gap: 26px;
     margin: 120px 25px 180px 24px;
-    width: 1052;
-    height: 595;
+    width: 1052px;
+    height: 595px;
 }
 .about-logo_image {
     width: 148px;
