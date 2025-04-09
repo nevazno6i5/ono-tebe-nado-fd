@@ -4,7 +4,7 @@
     align-items: center;
     padding: 92px 50px 96px 50px;
   }
-  a {
+  .menu-items .active-link {
     text-decoration: none;
   }
   .menu-nav {
@@ -34,6 +34,9 @@
   }
   .adres-border {
     border-bottom: 1px black solid;
+  }
+  .underline-links {
+    text-decoration: none;
   }
   .covers {
     display: grid;
@@ -124,6 +127,7 @@
   }
   .link-card {
     height: 100%;
+    text-decoration: none;
   }
   .all-card {
     display: flex;
